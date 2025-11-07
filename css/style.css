@@ -8162,7 +8162,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #000000;
+  color: #d9d5d5;
   font-weight: 400;
   font-family: "Nunito Sans", Arial, sans-serif; }
 
@@ -8184,7 +8184,7 @@ h1, h2, h3, h4, h5,
       top: 0;
       padding: 10px 15px; } }
   .ftco-navbar-light .navbar-brand {
-    color: #000000; }
+    color: #d9d5d5; }
     .ftco-navbar-light .navbar-brand span {
       color: #c78300; }
   @media (max-width: 991.98px) {
@@ -9366,7 +9366,7 @@ textarea.form-control {
   font-size: 20px;
   display: block;
   margin-bottom: 5px;
-  color: #c78300;
+  color: #ffd400;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700; }
